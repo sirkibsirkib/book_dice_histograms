@@ -1,0 +1,7 @@
+[package]
+name = "book_dice_histograms"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+fastrand = "1.7.0"
